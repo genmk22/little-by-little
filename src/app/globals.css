@@ -53,7 +53,6 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .brand { display: inline-flex; align-items: center; gap: 9px; color: var(--ink); font-size: 16px; font-weight: 680; letter-spacing: -0.055em; text-decoration: none; white-space: nowrap; }
 .brand-mark { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 11px 11px 11px 5px; background: #e6efeb; color: var(--sea); transform: rotate(-5deg); }
 .brand-mark svg { transform: rotate(5deg); }
-.brand-period { color: var(--coral); }
 .header-actions { display: flex; align-items: center; gap: clamp(15px, 2.8vw, 36px); }
 .how-link { color: #5b6a6b; font-size: 13px; text-decoration: none; }
 .how-link:hover { color: var(--sea-dark); }

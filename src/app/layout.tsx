@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Little by little — one small step for right now",
+  title: "little-by-little — one small step for right now",
   description: "A calm, private check-in with small activities chosen around how you feel and what is possible today.",
-  applicationName: "Little by little",
+  applicationName: "little-by-little",
   icons: { icon: "/leaf-mark.svg" },
 };
 

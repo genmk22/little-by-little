@@ -218,9 +218,9 @@ export function MoodJourney() {
   return (
     <main>
       <header className="site-header">
-        <a className="brand" href="#top" aria-label="Little by little home">
+        <a className="brand" href="#top" aria-label="little-by-little home">
           <span className="brand-mark"><Heart size={17} fill="currentColor" aria-hidden="true" /></span>
-          <span>little by little<span className="brand-period">.</span></span>
+          <span>little-by-little</span>
         </a>
         <nav className="header-actions" aria-label="Main navigation">
           <a className="how-link" href="#how-it-works">How it works</a>
@@ -385,7 +385,7 @@ export function MoodJourney() {
         <p className="directory-caption">Find A Helpline lists verified support services in 175+ countries. <a href="https://findahelpline.com/verification" target="_blank" rel="noopener noreferrer">About their verification <ChevronDown size={13} /></a></p>
       </div>
 
-      <footer className="site-footer"><a className="brand footer-brand" href="#top"><span className="brand-mark"><Heart size={15} fill="currentColor" /></span><span>little by little<span className="brand-period">.</span></span></a><p>Be gentle with yourself today.</p><span className="footer-status"><span /> For adults · English · Available worldwide</span></footer>
+      <footer className="site-footer"><a className="brand footer-brand" href="#top"><span className="brand-mark"><Heart size={15} fill="currentColor" /></span><span>little-by-little</span></a><p>Be gentle with yourself today.</p><span className="footer-status"><span /> For adults · English · Available worldwide</span></footer>
 
       <AuthDialog open={showAuth} onClose={() => setShowAuth(false)} />
       {showHistory && (

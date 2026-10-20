@@ -1,4 +1,4 @@
-# Little by little
+# little-by-little
 
 A responsive, English-language check-in website for adults. Visitors choose mood tags and practical preferences, then receive a few curated activity ideas. V1 uses a local, rules-based catalog; no AI provider or media API is called.
 
